@@ -1,5 +1,7 @@
 node_modules/
 
+/.cpcache
+
 /build/**/js
 
 pom.xml
